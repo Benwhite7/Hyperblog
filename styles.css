@@ -12,3 +12,7 @@ body {
     width: 70%;
     text-align: center;
 }
+.cabecera {
+    background-color: white;
+    color: black;
+}
